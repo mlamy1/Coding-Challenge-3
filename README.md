@@ -1,1 +1,2 @@
 # Coding-Challenge-3
+// The purpose of this challenge is to create a program that will calculate average sales, determine performance ratings, identify performers, and generate performance reports.  This program will help analyze company's sales team's performance based on their monthly sales figures.  This will allow. 
